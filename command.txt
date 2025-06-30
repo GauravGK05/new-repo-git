@@ -2,3 +2,4 @@ Hello world
 this is my first day of learning git & github for devops
 till now i have learned about git dvcs , architecture and basic git commands
 now i am learning about git push and pull
+git pull origin master     --- this command is very important
