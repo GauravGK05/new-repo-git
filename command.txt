@@ -1,0 +1,3 @@
+Hello world 
+this is my first day of learning git & github for devops
+till now i have learned about git dvcs , architecture and basic git commands
